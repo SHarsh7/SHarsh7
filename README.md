@@ -1,6 +1,6 @@
 ### Hi there 👋 I'am  Harsh
 
-- 🔭 I’m currently working on React
+- 🔭 I’m currently working on Web dev
 - 👯 I’m looking to collaborate on  Open Source projects
 
 ### Languages and Tools:
